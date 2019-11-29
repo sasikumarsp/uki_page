@@ -1,0 +1,34 @@
+table, td{
+            border: 1px solid black;
+            border-collapse: collapse;
+           }
+h4{
+  text-align:center;
+}
+.th{
+    background-color:rgb(71, 117, 254); text-align:center;
+   }
+.time{
+      background-color:rgb(113, 125, 237);
+     }
+.Yoga{
+      background-color:rgb(137, 199, 244);
+      }
+.PC{
+    background-color:rgb(248, 226, 8);
+   }
+.EBCE{
+      background-color:rgb(255, 115, 108);
+     }
+.PT{
+    background-color:rgb(157, 72, 227);
+   }
+.Break{
+       background-color:rgb(0, 227, 44); text-align:center;
+      }
+.TT{
+    background-color:rgb(214, 172, 2)
+   }
+.GC{
+    background-color:rgb(254, 4, 5)
+   }
